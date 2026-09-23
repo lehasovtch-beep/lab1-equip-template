@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/aie-python-26-autumn-lab0-lehasovtch-beep" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/aie-python-26-autumn-lab1-lehasovtch-beep" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab1-equip-template" vcs="Git" />
   </component>
 </project>
